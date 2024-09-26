@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "356587539010",
+    "project_id": "wishive-app",
+    "storage_bucket": "wishive-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356587539010:android:dce3ebe7d5d900706f7bdb",
+        "android_client_info": {
+          "package_name": "com.wishive.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356587539010-cm212257ogv48uuk36f94oigco4odimg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWCKlRpIclbrZeIb0-ragGm-DjGlZok08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356587539010-cm212257ogv48uuk36f94oigco4odimg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "356587539010-6jm5epmqfff333bonc327qkmko4bmsgh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wishive.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
